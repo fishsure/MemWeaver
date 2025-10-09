@@ -1,0 +1,9 @@
+evaluate==0.4.2
+jieba==0.42.1
+nltk==3.8.1
+rank_bm25==0.2.2
+rouge_chinese==1.0.3
+scikit_learn==1.5.2
+tqdm==4.66.4
+vllm==0.10.0
+torch==2.7.1
