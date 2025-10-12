@@ -5,10 +5,11 @@
 </div>
 
 <div align="center">
-  <!-- <a href="https://arxiv.org/abs/">
+<a href="https://arxiv.org/abs/2510.07713">
     📖 <strong>Paper</strong>
-  </a> |
-  <a href="https://drive.google.com/drive/folders/19P---oV4nQ53JgKnE0VX3t_N1jLliVSv?usp=drive_link">
+  </a> 
+  <!-- | -->
+    <!-- <a href="https://drive.google.com/drive/folders/19P---oV4nQ53JgKnE0VX3t_N1jLliVSv?usp=drive_link">
     📊 <strong>Datasets</strong>
   </a> | -->
   <!-- <a href="https://icml.cc/virtual/2025/poster/43701">
@@ -19,7 +20,7 @@
   </a> |
   <a href="https://recorder-v3.slideslive.com/#/share?share=101481&s=cb30d33d-2ae1-472d-ade2-81905c3da429"> 
     📽️ <strong>SlidesLive</strong> </a> -->
-  <!-- <br><br> -->
+  <br><br>
   <img src="https://img.shields.io/github/last-commit/fishsure/MemWeaver?color=green" alt="Last Commit">
   <img src="https://img.shields.io/github/stars/fishsure/MemWeaver?color=yellow" alt="Stars">
   <img src="https://img.shields.io/github/forks/fishsure/MemWeaver?color=lightblue" alt="Forks">
@@ -216,18 +217,20 @@ This repo is built on the pioneer works. We appreciate the following GitHub repo
 
 
 
-<!-- ## 🔖 Citation
+## 🔖 Citation
 
 >🙋 Please let us know if you find out a mistake or have any suggestions!
 >
 >🌟 If you find our work helpful, please consider to star this repository and cite our research.
 
 ```bibtex
-@inproceedings{wang2025MemWeaver,
-  title={MemWeaver: A Diffusion Autoregressive Transformer for Self-Supervised Time Series Representation},
-  author={Daoyu Wang and Mingyue Cheng and Zhiding Liu and Qi Liu},
-  booktitle={Forty-second International Conference on Machine Learning},
-  year={2025},
-  url={https://arxiv.org/abs/2410.05711},
+@misc{yu2025memweaverhierarchicalmemorytextual,
+      title={MemWeaver: A Hierarchical Memory from Textual Interactive Behaviors for Personalized Generation}, 
+      author={Shuo Yu and Mingyue Cheng and Daoyu Wang and Qi Liu and Zirui Liu and Ze Guo and Xiaoyu Tao},
+      year={2025},
+      eprint={2510.07713},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2510.07713}, 
 }
-``` -->
+```
