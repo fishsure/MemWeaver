@@ -1,7 +1,6 @@
 <div align="center">
-  <h1>
-        🕸️ MemWeaver: A Hierarchical Memory from  Textual Interactive Behaviors for Personalized Generation
-  </h1> 
+  <h1>🕸️ MemWeaver: A Hierarchical Memory from Textual Interactive Behaviors for Personalized Generation</h1>
+  <p><strong>📌 Accepted at ACM Web Conference 2026 (WWW 2026)</strong></p>
 </div>
 
 <div align="center">
@@ -224,13 +223,11 @@ This repo is built on the pioneer works. We appreciate the following GitHub repo
 >🌟 If you find our work helpful, please consider to star this repository and cite our research.
 
 ```bibtex
-@misc{yu2025memweaverhierarchicalmemorytextual,
-      title={MemWeaver: A Hierarchical Memory from Textual Interactive Behaviors for Personalized Generation}, 
-      author={Shuo Yu and Mingyue Cheng and Daoyu Wang and Qi Liu and Zirui Liu and Ze Guo and Xiaoyu Tao},
-      year={2025},
-      eprint={2510.07713},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2510.07713}, 
+@inproceedings{yu2026memweaver,
+  title={Memweaver: A hierarchical memory from textual interactive behaviors for personalized generation},
+  author={Yu, Shuo and Cheng, Mingyue and Wang, Daoyu and Liu, Qi and Liu, Zirui and Guo, Ze and Tao, Xiaoyu},
+  booktitle={Proceedings of the ACM Web Conference 2026},
+  pages={6920--6931},
+  year={2026}
 }
 ```
